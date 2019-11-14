@@ -1,0 +1,11 @@
+..\output\sht10.o: ..\Driver\sht10\sht10.c
+..\output\sht10.o: ..\Driver\sht10\sht10.h
+..\output\sht10.o: ..\main\stm32l1xx.h
+..\output\sht10.o: ..\System\core_cm3.h
+..\output\sht10.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\sht10.o: ..\Driver\switch\core_cmInstr.h
+..\output\sht10.o: ..\System\core_cmFunc.h
+..\output\sht10.o: ..\System\system_stm32l1xx.h
+..\output\sht10.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_conf.h
+..\output\sht10.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\sht10.o: ..\main\general_type.h

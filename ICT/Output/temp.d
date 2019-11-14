@@ -1,0 +1,16 @@
+..\output\temp.o: ..\Driver\temp\temp.c
+..\output\temp.o: ..\Driver\temp\temp.h
+..\output\temp.o: ..\main\stm32l1xx.h
+..\output\temp.o: ..\System\core_cm3.h
+..\output\temp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\temp.o: ..\Driver\switch\core_cmInstr.h
+..\output\temp.o: ..\System\core_cmFunc.h
+..\output\temp.o: ..\System\system_stm32l1xx.h
+..\output\temp.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_conf.h
+..\output\temp.o: ..\Driver\sht10\sht10.h
+..\output\temp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\temp.o: ..\main\general_type.h
+..\output\temp.o: ..\Driver\system\delay\delay.h
+..\output\temp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\temp.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h
+..\output\temp.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h

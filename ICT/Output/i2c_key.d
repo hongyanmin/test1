@@ -1,0 +1,14 @@
+..\output\i2c_key.o: ..\Driver\iic_key\I2C_key.c
+..\output\i2c_key.o: ..\Driver\iic_key\I2C_key.h
+..\output\i2c_key.o: ..\main\stm32l1xx.h
+..\output\i2c_key.o: ..\System\core_cm3.h
+..\output\i2c_key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\i2c_key.o: ..\Driver\led\core_cmInstr.h
+..\output\i2c_key.o: ..\System\core_cmFunc.h
+..\output\i2c_key.o: ..\System\system_stm32l1xx.h
+..\output\i2c_key.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_conf.h
+..\output\i2c_key.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_i2c.h
+..\output\i2c_key.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h
+..\output\i2c_key.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h
+..\output\i2c_key.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_exti.h
+..\output\i2c_key.o: ..\STM32L1xx_StdPeriph_Driver\inc\misc.h

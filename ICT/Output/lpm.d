@@ -1,0 +1,13 @@
+..\output\lpm.o: ..\Driver\lpm\lpm.c
+..\output\lpm.o: ..\Driver\lpm\lpm.h
+..\output\lpm.o: ..\main\stm32l1xx.h
+..\output\lpm.o: ..\System\core_cm3.h
+..\output\lpm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\lpm.o: ..\Driver\switch\core_cmInstr.h
+..\output\lpm.o: ..\System\core_cmFunc.h
+..\output\lpm.o: ..\System\system_stm32l1xx.h
+..\output\lpm.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_conf.h
+..\output\lpm.o: ..\System\core_cm3.h
+..\output\lpm.o: ..\main\general_type.h
+..\output\lpm.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_pwr.h
+..\output\lpm.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h
